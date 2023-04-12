@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "9eafb76b8beb8b9fc3ed55c56f77735e83765291bb47e4374aea452fb88ca001"
+build_start_time: [1673100480, 484609127]
+build_end_time: [1673100483, 710833072]
+inputs:
+  "/Users/andrey.losyukov/blockchainApp/freelancim/bin_options/macos/Flutter/GeneratedPluginRegistrant.swift": [1673100457, 265903234]
+  "/Users/andrey.losyukov/blockchainApp/freelancim/bin_options/macos/Runner/AppDelegate.swift": [1634290600, 0]
+  "/Users/andrey.losyukov/blockchainApp/freelancim/bin_options/macos/Runner/MainFlutterWindow.swift": [1634290600, 0]
